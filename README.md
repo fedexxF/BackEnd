@@ -14,7 +14,7 @@ Dependencias usadas:
 #Rest Repositories
 #SpringSegurity
 
-#Version usada de java 11
+#Version usada de java 18
 
 #IntelliJ IDEA 2022.2 (Ultimate Edition)
 Runtime version: 17.0.3+7-b469.32 amd64
