@@ -13,6 +13,8 @@ Dependencias usadas:
 #MySQL Driver
 #Rest Repositories
 #SpringSegurity
+#Thymeleaf 
+#Spring Boot DevTools 
 
 #Version usada de java 18
 
