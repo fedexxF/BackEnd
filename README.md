@@ -4,7 +4,7 @@ Proyecto Porfolio Web
 
 Configuraciones, programas y detalles a tener en cuenta:
 #Maven Project
-#Springboot 2.7.2 (version)
+#Springboot 2.6.10 (version)
 Dependencias usadas:
 #Spring Web
 #Spring Data JDBC
